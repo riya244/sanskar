@@ -1,0 +1,30 @@
+body{
+    background-color: #E0FFFF;
+    background-image: url("img/bg.jpg");
+}
+.headings{
+
+    padding-right: 10px;
+}
+.myslides{
+    width: 1150px;
+    lenth:100px;
+
+}
+.information{
+    background-color: #ffffff;
+}
+.principle{
+    background-color: #ffffff;
+}
+footer{
+   margin: 50px;
+   padding: 10px;
+background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}
+.heading{
+   padding-top: 40px;
+}
